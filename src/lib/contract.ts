@@ -58,5 +58,5 @@ export const CONTRACT_CONFIG = {
       "type": "event"
     }
   ] as const,
-  chainId: 4202
+  chainId: 1135
 } as const;

@@ -6,16 +6,16 @@ const liskSepoliaChain = {
   ...liskSepolia,
   rpcUrls: {
     default: {
-      http: ['https://rpc.sepolia-api.lisk.com'],
+      http: ['https://lisk.drpc.org'],
     },
     public: {
-      http: ['https://rpc.sepolia-api.lisk.com'],
+      http: ['https://lisk.drpc.org'],
     },
   },
   blockExplorers: {
     default: {
-      name: 'Lisk Sepolia Explorer',
-      url: 'https://sepolia-blockscout.lisk.com',
+      name: 'Lisk Explorer',
+      url: 'https://blockscout.lisk.com',
     },
   },
 };
