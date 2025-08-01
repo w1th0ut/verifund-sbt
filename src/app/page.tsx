@@ -31,7 +31,7 @@ export default function Home() {
 
       {/* Footer */}
       <div className="text-center text-white/50 text-sm">
-        <p>Verifund SBT pada Lisk Sepolia Testnet</p>
+        <p>Verifund SBT pada Lisk</p>
         <p className="mt-2">
           Contract: <code className="bg-white/10 px-2 py-1 rounded font-mono">
             {CONTRACT_CONFIG.address}
